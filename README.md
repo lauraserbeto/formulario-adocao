@@ -1,5 +1,7 @@
 # Formulário de Cadastro de Pets para Adoção - Adote+ 🐾
 
+![Captura de Tela do Formulário](img/formulario-screenshot.png) 
+
 Este projeto consiste em um formulário web simples e intuitivo para cadastrar pets disponíveis para adoção. O objetivo é facilitar a coleta de informações essenciais sobre o doador e o animal, tornando o processo de adoção mais organizado e eficiente.
 
 Você pode ver o projeto em funcionamento [aqui](https://formulario-adocao.vercel.app/).
